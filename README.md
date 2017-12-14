@@ -1,2 +1,2 @@
-# testRepo1
-testrepo1
+# gitBasicsRepo
+This is a sample repo for git basics tutorial.
